@@ -1,0 +1,30 @@
+a:link{
+    color: lawngreen;
+}
+a:visited{ 
+    color: grey;
+}
+a:hover{ /*when touch the hyperlink*/
+    color: tomato;
+}
+a:active{ /*hold the hyperlink*/
+    color: yellow;
+}
+button:hover{
+    background-color: lightgray;
+}
+button:active{
+    background-color: white;
+}
+/*li:nth-child(1){
+    background-color: yellow;
+}*/
+/*li:nth-child(even){
+    background-color: skyblue;
+}*/
+/*li:nth-child(odd){
+    background-color: powderblue;
+}*/
+/*li:nth-child(4n+1){
+    background-color: rebeccapurple;
+}*/
